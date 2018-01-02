@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Virgo.</string>
+    <string name="curr_max_score">当前最大分：0</string>
+    <string name="history_max_score">历史最高分：0</string>
+    <string name="restart">重新开始</string>
+    <string name="select">选择列数</string>
+</resources>
